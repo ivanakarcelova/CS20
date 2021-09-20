@@ -4,46 +4,46 @@ body {
 
 .Intro {
 	text-align: center;
-	font-family: monospace;
+	font-family: sans-serif;
+	font-style: oblique;
 }
 
 .Ivana {
 	padding: 5px;
 	width: 150px;
-	margin-left: auto;
- 	margin-right: auto;
+	align-self: center;
 }
 
 .About {
 	text-align: center;
-	font-family: monospace;
+	font-family: sans-serif;
 }
 
 .Ad {
 	padding: 5px;
 	width: 150px;
-	margin-left: auto;
- 	margin-right: auto;
+	align-self: center;
+
 }
 
 .Link {
 	text-align: center;
-	font-family: monospace;
+	font-family: sans-serif;
 }
 
 .Fav {
 	text-align: center;
-	font-family: monospace;
+	font-family: sans-serif;
 }
 
 .Melnik {
 	padding: 5px;
 	width: 150px;
-	margin-left: auto;
- 	margin-right: auto;
+	align-self: center;
 }
 
 .IP {
 	text-align: center;
-	font-family: monospace;
+	font-family: sans-serif;
+	font-style: italic;
 }
