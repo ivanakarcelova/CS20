@@ -6,22 +6,28 @@ body {
 	text-align: center;
 	font-family: sans-serif;
 	font-style: oblique;
+	padding: 10px;
 }
 
 .Ivana {
 	/* padding: 5px;
 	width: 150px;
 	align-self: center; */
-	display: center;
+	/* display: center;
   	margin-left: auto;
   	margin-right: auto;
   	width: 25%;
-	padding: 10px;
+	padding: 10px; */
+	width: 200px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 .About {
 	text-align: center;
 	font-family: sans-serif;
+	padding: 10px;
 }
 
 .Ad {
@@ -39,11 +45,13 @@ body {
 .Link {
 	text-align: center;
 	font-family: sans-serif;
+	padding: 10px;
 }
 
 .Fav {
 	text-align: center;
 	font-family: sans-serif;
+	padding: 10px;
 }
 
 .Melnik {
@@ -62,4 +70,5 @@ body {
 	text-align: center;
 	font-family: sans-serif;
 	font-style: italic;
+	padding: 10px;
 }
