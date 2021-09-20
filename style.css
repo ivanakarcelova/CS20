@@ -9,9 +9,13 @@ body {
 }
 
 .Ivana {
-	padding: 5px;
+	/* padding: 5px;
 	width: 150px;
-	align-self: center;
+	align-self: center; */
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 }
 
 .About {
@@ -20,9 +24,13 @@ body {
 }
 
 .Ad {
-	padding: 5px;
+	/* padding: 5px;
 	width: 150px;
-	align-self: center;
+	align-self: center; */
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 
 }
 
@@ -37,9 +45,14 @@ body {
 }
 
 .Melnik {
-	padding: 5px;
+	/* padding: 5px;
 	width: 150px;
-	align-self: center;
+	align-self: center; */
+
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
 }
 
 .IP {
