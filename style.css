@@ -1,0 +1,29 @@
+body {
+	background-color: #F9D38A
+}
+
+.Intro {
+	text-align: center;
+}
+
+.Ivana {
+	padding: 5px;
+	width: 150px;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.About {
+	text-align: center;
+}
+
+.Melnik {
+	padding: 5px;
+	width: 150px;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.IP {
+	text-align: center;
+}
