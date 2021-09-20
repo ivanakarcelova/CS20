@@ -1,9 +1,10 @@
 body {
-	background-color: #F9D38A
+	background-color: #FFE7AD
 }
 
 .Intro {
 	text-align: center;
+	font-family: monospace;
 }
 
 .Ivana {
@@ -15,6 +16,24 @@ body {
 
 .About {
 	text-align: center;
+	font-family: monospace;
+}
+
+.Ad {
+	padding: 5px;
+	width: 150px;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+.Link {
+	text-align: center;
+	font-family: monospace;
+}
+
+.Fav {
+	text-align: center;
+	font-family: monospace;
 }
 
 .Melnik {
@@ -26,4 +45,5 @@ body {
 
 .IP {
 	text-align: center;
+	font-family: monospace;
 }
